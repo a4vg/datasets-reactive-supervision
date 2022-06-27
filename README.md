@@ -2,6 +2,8 @@
 
 Se incluye el grupo de  **datasets generados** utilizados en la tesis "Análisis de los métodos de recolección de textos sarcásticos".
 
+Por políticas de privacidad de Twitter, solo se proveen los tweet IDs.
+
 | División | Muestras negativas (no sarcásticos) | Muestras positivas (sarcásticos) | Total |
 | -------- | ------------------ | ------ | -------- |
 | Entrenamiento (80%) | 2710 | 2710 | 5420 |
